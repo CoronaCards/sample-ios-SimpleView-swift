@@ -13,6 +13,28 @@
 		A49079FF1A227C8200A0B244 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A49079FE1A227C8200A0B244 /* Images.xcassets */; };
 		A4907A021A227C8200A0B244 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A4907A001A227C8200A0B244 /* LaunchScreen.xib */; };
 		A4907A0E1A227C8200A0B244 /* SimpleView_swiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4907A0D1A227C8200A0B244 /* SimpleView_swiftTests.swift */; };
+		A4907A2E1A227CAC00A0B244 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A4907A191A227CAC00A0B244 /* Foundation.framework */; };
+		A4907A2F1A227CAC00A0B244 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A4907A1A1A227CAC00A0B244 /* CoreGraphics.framework */; };
+		A4907A301A227CAC00A0B244 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A4907A1B1A227CAC00A0B244 /* UIKit.framework */; };
+		A4907A311A227CAC00A0B244 /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A4907A1C1A227CAC00A0B244 /* AdSupport.framework */; };
+		A4907A321A227CAC00A0B244 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A4907A1D1A227CAC00A0B244 /* AudioToolbox.framework */; };
+		A4907A331A227CAC00A0B244 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A4907A1E1A227CAC00A0B244 /* AVFoundation.framework */; };
+		A4907A341A227CAC00A0B244 /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A4907A1F1A227CAC00A0B244 /* CFNetwork.framework */; };
+		A4907A351A227CAC00A0B244 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A4907A201A227CAC00A0B244 /* CoreLocation.framework */; };
+		A4907A361A227CAC00A0B244 /* CoreMedia.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A4907A211A227CAC00A0B244 /* CoreMedia.framework */; };
+		A4907A371A227CAC00A0B244 /* CoreMotion.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A4907A221A227CAC00A0B244 /* CoreMotion.framework */; };
+		A4907A381A227CAC00A0B244 /* CoreVideo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A4907A231A227CAC00A0B244 /* CoreVideo.framework */; };
+		A4907A391A227CAC00A0B244 /* GLKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A4907A241A227CAC00A0B244 /* GLKit.framework */; };
+		A4907A3A1A227CAC00A0B244 /* ImageIO.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A4907A251A227CAC00A0B244 /* ImageIO.framework */; };
+		A4907A3B1A227CAC00A0B244 /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A4907A261A227CAC00A0B244 /* MediaPlayer.framework */; };
+		A4907A3C1A227CAC00A0B244 /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A4907A271A227CAC00A0B244 /* MobileCoreServices.framework */; };
+		A4907A3D1A227CAC00A0B244 /* OpenAL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A4907A281A227CAC00A0B244 /* OpenAL.framework */; };
+		A4907A3E1A227CAC00A0B244 /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A4907A291A227CAC00A0B244 /* OpenGLES.framework */; };
+		A4907A3F1A227CAC00A0B244 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A4907A2A1A227CAC00A0B244 /* QuartzCore.framework */; };
+		A4907A401A227CAC00A0B244 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A4907A2B1A227CAC00A0B244 /* Security.framework */; };
+		A4907A411A227CAC00A0B244 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A4907A2C1A227CAC00A0B244 /* SystemConfiguration.framework */; };
+		A4FBC3C91A227CE7004D9A01 /* CoronaCards.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A4FBC3C81A227CE7004D9A01 /* CoronaCards.framework */; };
+		A4FBC3CE1A2280F3004D9A01 /* CPlusPlusLinkage.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A4FBC3CD1A2280F3004D9A01 /* CPlusPlusLinkage.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +58,29 @@
 		A4907A071A227C8200A0B244 /* SimpleView-swiftTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SimpleView-swiftTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A4907A0C1A227C8200A0B244 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A4907A0D1A227C8200A0B244 /* SimpleView_swiftTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleView_swiftTests.swift; sourceTree = "<group>"; };
+		A4907A191A227CAC00A0B244 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		A4907A1A1A227CAC00A0B244 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		A4907A1B1A227CAC00A0B244 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		A4907A1C1A227CAC00A0B244 /* AdSupport.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AdSupport.framework; path = System/Library/Frameworks/AdSupport.framework; sourceTree = SDKROOT; };
+		A4907A1D1A227CAC00A0B244 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		A4907A1E1A227CAC00A0B244 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		A4907A1F1A227CAC00A0B244 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
+		A4907A201A227CAC00A0B244 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		A4907A211A227CAC00A0B244 /* CoreMedia.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMedia.framework; path = System/Library/Frameworks/CoreMedia.framework; sourceTree = SDKROOT; };
+		A4907A221A227CAC00A0B244 /* CoreMotion.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMotion.framework; path = System/Library/Frameworks/CoreMotion.framework; sourceTree = SDKROOT; };
+		A4907A231A227CAC00A0B244 /* CoreVideo.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreVideo.framework; path = System/Library/Frameworks/CoreVideo.framework; sourceTree = SDKROOT; };
+		A4907A241A227CAC00A0B244 /* GLKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLKit.framework; path = System/Library/Frameworks/GLKit.framework; sourceTree = SDKROOT; };
+		A4907A251A227CAC00A0B244 /* ImageIO.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ImageIO.framework; path = System/Library/Frameworks/ImageIO.framework; sourceTree = SDKROOT; };
+		A4907A261A227CAC00A0B244 /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
+		A4907A271A227CAC00A0B244 /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = System/Library/Frameworks/MobileCoreServices.framework; sourceTree = SDKROOT; };
+		A4907A281A227CAC00A0B244 /* OpenAL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenAL.framework; path = System/Library/Frameworks/OpenAL.framework; sourceTree = SDKROOT; };
+		A4907A291A227CAC00A0B244 /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
+		A4907A2A1A227CAC00A0B244 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		A4907A2B1A227CAC00A0B244 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
+		A4907A2C1A227CAC00A0B244 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		A4FBC3C81A227CE7004D9A01 /* CoronaCards.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoronaCards.framework; path = /Users/Shared/CoronaLabs/ios/CoronaCards.framework; sourceTree = "<absolute>"; };
+		A4FBC3CD1A2280F3004D9A01 /* CPlusPlusLinkage.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = CPlusPlusLinkage.cpp; path = "../Swift-Interoperability/CPlusPlusLinkage.cpp"; sourceTree = "<group>"; };
+		A4FBC3CF1A228103004D9A01 /* CoronaCards-Bridging-Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "CoronaCards-Bridging-Header.h"; path = "../Swift-Interoperability/CoronaCards-Bridging-Header.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +88,27 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A4907A2F1A227CAC00A0B244 /* CoreGraphics.framework in Frameworks */,
+				A4907A411A227CAC00A0B244 /* SystemConfiguration.framework in Frameworks */,
+				A4907A3B1A227CAC00A0B244 /* MediaPlayer.framework in Frameworks */,
+				A4907A311A227CAC00A0B244 /* AdSupport.framework in Frameworks */,
+				A4907A3A1A227CAC00A0B244 /* ImageIO.framework in Frameworks */,
+				A4907A341A227CAC00A0B244 /* CFNetwork.framework in Frameworks */,
+				A4FBC3C91A227CE7004D9A01 /* CoronaCards.framework in Frameworks */,
+				A4907A351A227CAC00A0B244 /* CoreLocation.framework in Frameworks */,
+				A4907A401A227CAC00A0B244 /* Security.framework in Frameworks */,
+				A4907A361A227CAC00A0B244 /* CoreMedia.framework in Frameworks */,
+				A4907A301A227CAC00A0B244 /* UIKit.framework in Frameworks */,
+				A4907A2E1A227CAC00A0B244 /* Foundation.framework in Frameworks */,
+				A4907A331A227CAC00A0B244 /* AVFoundation.framework in Frameworks */,
+				A4907A321A227CAC00A0B244 /* AudioToolbox.framework in Frameworks */,
+				A4907A371A227CAC00A0B244 /* CoreMotion.framework in Frameworks */,
+				A4907A3D1A227CAC00A0B244 /* OpenAL.framework in Frameworks */,
+				A4907A3C1A227CAC00A0B244 /* MobileCoreServices.framework in Frameworks */,
+				A4907A3F1A227CAC00A0B244 /* QuartzCore.framework in Frameworks */,
+				A4907A391A227CAC00A0B244 /* GLKit.framework in Frameworks */,
+				A4907A381A227CAC00A0B244 /* CoreVideo.framework in Frameworks */,
+				A4907A3E1A227CAC00A0B244 /* OpenGLES.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -61,6 +127,7 @@
 			children = (
 				A49079F41A227C8200A0B244 /* SimpleView-swift */,
 				A4907A0A1A227C8200A0B244 /* SimpleView-swiftTests */,
+				A4907A171A227C9E00A0B244 /* Frameworks */,
 				A49079F31A227C8200A0B244 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -77,6 +144,7 @@
 		A49079F41A227C8200A0B244 /* SimpleView-swift */ = {
 			isa = PBXGroup;
 			children = (
+				A4FBC3D01A22822A004D9A01 /* Swift-Interoperability */,
 				A49079F71A227C8200A0B244 /* AppDelegate.swift */,
 				A49079F91A227C8200A0B244 /* ViewController.swift */,
 				A49079FB1A227C8200A0B244 /* Main.storyboard */,
@@ -112,6 +180,43 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		A4907A171A227C9E00A0B244 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				A4FBC3C81A227CE7004D9A01 /* CoronaCards.framework */,
+				A4907A191A227CAC00A0B244 /* Foundation.framework */,
+				A4907A1A1A227CAC00A0B244 /* CoreGraphics.framework */,
+				A4907A1B1A227CAC00A0B244 /* UIKit.framework */,
+				A4907A1C1A227CAC00A0B244 /* AdSupport.framework */,
+				A4907A1D1A227CAC00A0B244 /* AudioToolbox.framework */,
+				A4907A1E1A227CAC00A0B244 /* AVFoundation.framework */,
+				A4907A1F1A227CAC00A0B244 /* CFNetwork.framework */,
+				A4907A201A227CAC00A0B244 /* CoreLocation.framework */,
+				A4907A211A227CAC00A0B244 /* CoreMedia.framework */,
+				A4907A221A227CAC00A0B244 /* CoreMotion.framework */,
+				A4907A231A227CAC00A0B244 /* CoreVideo.framework */,
+				A4907A241A227CAC00A0B244 /* GLKit.framework */,
+				A4907A251A227CAC00A0B244 /* ImageIO.framework */,
+				A4907A261A227CAC00A0B244 /* MediaPlayer.framework */,
+				A4907A271A227CAC00A0B244 /* MobileCoreServices.framework */,
+				A4907A281A227CAC00A0B244 /* OpenAL.framework */,
+				A4907A291A227CAC00A0B244 /* OpenGLES.framework */,
+				A4907A2A1A227CAC00A0B244 /* QuartzCore.framework */,
+				A4907A2B1A227CAC00A0B244 /* Security.framework */,
+				A4907A2C1A227CAC00A0B244 /* SystemConfiguration.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		A4FBC3D01A22822A004D9A01 /* Swift-Interoperability */ = {
+			isa = PBXGroup;
+			children = (
+				A4FBC3CD1A2280F3004D9A01 /* CPlusPlusLinkage.cpp */,
+				A4FBC3CF1A228103004D9A01 /* CoronaCards-Bridging-Header.h */,
+			);
+			name = "Swift-Interoperability";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -122,6 +227,7 @@
 				A49079EE1A227C8200A0B244 /* Sources */,
 				A49079EF1A227C8200A0B244 /* Frameworks */,
 				A49079F01A227C8200A0B244 /* Resources */,
+				A4FBC3CC1A227E72004D9A01 /* ShellScript */,
 			);
 			buildRules = (
 			);
@@ -207,12 +313,29 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		A4FBC3CC1A227E72004D9A01 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "echo \"Copying Corona\"\nditto -V \"$PROJECT_DIR\"/Corona \"$TARGET_BUILD_DIR\"/\"$EXECUTABLE_FOLDER_PATH\"";
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		A49079EE1A227C8200A0B244 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				A49079FA1A227C8200A0B244 /* ViewController.swift in Sources */,
+				A4FBC3CE1A2280F3004D9A01 /* CPlusPlusLinkage.cpp in Sources */,
 				A49079F81A227C8200A0B244 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -338,9 +461,20 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_CXX_LIBRARY = "libstdc++";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					/Users/Shared/CoronaLabs/ios,
+				);
 				INFOPLIST_FILE = "SimpleView-swift/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-lobjc",
+					"-lsqlite3",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "${SOURCE_ROOT}/Swift-Interoperability/CoronaCards-Bridging-Header.h";
 			};
 			name = Debug;
 		};
@@ -348,9 +482,20 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_CXX_LIBRARY = "libstdc++";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					/Users/Shared/CoronaLabs/ios,
+				);
 				INFOPLIST_FILE = "SimpleView-swift/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-lobjc",
+					"-lsqlite3",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "${SOURCE_ROOT}/Swift-Interoperability/CoronaCards-Bridging-Header.h";
 			};
 			name = Release;
 		};
@@ -407,6 +552,7 @@
 				A4907A131A227C8200A0B244 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A4907A141A227C8200A0B244 /* Build configuration list for PBXNativeTarget "SimpleView-swiftTests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +561,7 @@
 				A4907A161A227C8200A0B244 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
