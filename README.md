@@ -37,6 +37,12 @@ The sample expects `CoronaCards.framework` to be installed at `/Users/Shared/Cor
 
 See [CoronaCards Setup (iOS)](http://docs.coronalabs.com/coronacards/ios/setup.html) for more info.
 
+
 # Requirements
 
 See [System Requirements](http://docs.coronalabs.com/coronacards/ios/setup.html#system-requirements).
+
+
+# Version Notes
+
+None
