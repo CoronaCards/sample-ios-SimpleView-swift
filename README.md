@@ -35,9 +35,8 @@ CoronaCards.framework is written in Obj-C/C++. In order to make CoronaCards avai
 
 The sample expects `CoronaCards.framework` to be installed at `/Users/Shared/CoronaLabs/ios/CoronaCards.framework`. 
 
+See [CoronaCards Setup (iOS)](http://docs.coronalabs.com/coronacards/ios/setup.html) for more info.
 
 # Requirements
 
-* Xcode 6.1
-* Mac OS X 10.9.4 or higher
-
+See [System Requirements](http://docs.coronalabs.com/coronacards/ios/setup.html#system-requirements).
