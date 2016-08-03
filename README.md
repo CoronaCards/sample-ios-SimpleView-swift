@@ -5,6 +5,11 @@ NOTE: This is a Swift-based version of the [SimpleView sample](https://github.co
 
 This example shows you how to use CoronaView as the __root__ view of the app. This is useful if you want to use CoronaViews in a manner similar to how plain [Corona SDK/Corona Enterprise](http://www.coronalabs.com/corona) projects are setup.
 
+### `license.ccdata`
+
+In order for any CoronaCards project to work, you must put a valid `license.ccdata` file into the `Corona`  folder (near `main.lua`), otherwise you'll get a black screen and error message in the console.
+
+
 # Code Overview
 
 ## CoronaView setup (Swift)
